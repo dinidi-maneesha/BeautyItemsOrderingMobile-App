@@ -5,3 +5,6 @@
         Because young girls and women often want to be beautiful, so I decided to create this app targeting them. 
         This app allows the costumer to buy different types of cosmetics as well as jewelries and wallets. 
         The purpose is to deliver the selected product to the customer withing a few days.
+        
+        ![Purple Minimalist Linktree Background](https://user-images.githubusercontent.com/110399426/231388903-9ec3c30f-f2e1-470a-9403-2ddf28aaaabe.png)
+
