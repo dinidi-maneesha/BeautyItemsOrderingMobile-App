@@ -6,5 +6,5 @@
         This app allows the costumer to buy different types of cosmetics as well as jewelries and wallets. 
         The purpose is to deliver the selected product to the customer withing a few days.
         
-        ![Purple Minimalist Linktree Background](https://user-images.githubusercontent.com/110399426/231388903-9ec3c30f-f2e1-470a-9403-2ddf28aaaabe.png)
+![Purple Minimalist Linktree Background](https://user-images.githubusercontent.com/110399426/231389436-29af6afc-d701-4046-920e-90585f9f8ecf.png)
 
